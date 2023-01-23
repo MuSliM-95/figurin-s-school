@@ -1,0 +1,25 @@
+{
+  "name": "figurin's-school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "s": "node ./src/certificateGenerator.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.1.0",
+    "dotenv": "^16.0.3",
+    "fs-": "^1.0.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.20",
+    "sharp": "^0.31.3"
+  },
+  "devDependencies": {
+    "@types/sharp": "^0.31.1"
+  }
+}
