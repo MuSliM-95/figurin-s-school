@@ -1,0 +1,28 @@
+{
+ "users": [
+     {
+        "name":"Муслим",
+        "surname":"Ансаров",
+        "patronymic":"Хадидович",
+        "username":"HeIIoW0RID"    
+     },
+     {
+        "name":"Ахмед",
+        "surname":"Убаров",
+        "patronymic":"Мусаевич",
+        "username":"a_arhiev"    
+     },
+     {
+        "name":"Илес",
+        "surname":"Иранов",
+        "patronymic":"Зурабович",
+        "username":"razblokirovka_m"    
+     },
+     {
+        "name":"Бислан",
+        "surname":"Инаров",
+        "patronymic":"Хадидович",
+        "username":"Bislan_1996"    
+     }
+ ]
+}
